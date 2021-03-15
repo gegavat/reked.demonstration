@@ -1,0 +1,1 @@
+<button class="btn btn-success confirm">Click me!</button>

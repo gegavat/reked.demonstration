@@ -1,0 +1,25 @@
+button.location-add {
+    margin: 3px !important;
+}
+.mod-loc-h {
+    font-size: 1.15em;
+    font-weight: 600;
+}
+.mod-loc-h:not(:first-child) {
+    margin-top: 12px;
+}
+.mod-loc-cont {
+    height: 160px;
+    overflow-y: scroll;
+    border: 1px solid #cbcbcb;
+    padding: 8px;
+}
+.mod-country-cont {
+    height: 70px;
+}
+#geo-location-modal div.radio {
+    margin: 0;
+}
+#repl_cont .glyphicon-trash {
+    padding-left: 10px;
+}

@@ -1,0 +1,1 @@
+<a href="https://oauth.yandex.ru/authorize?response_type=code&force_confirm=yes&client_id=<?= \Yii::$app->params['yandexOAuthParam']['id'] ?>">Вернуться на страницу запроса доступа</a>
